@@ -170,7 +170,7 @@ df_new = df.loc[(df["age"] > 50)
 df_new["embark_town"].value_counts()
 
 ####################################################
-# Toplulaitırma ve Gruplama (Aggregation & Grouping)
+# Toplulaştırma ve Gruplama (Aggregation & Grouping)
 ####################################################
 
 # - count()
